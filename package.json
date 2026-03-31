@@ -1,7 +1,7 @@
 {
   "name": "bw-app-49-1774962270",
   "version": "1.0.0",
-  "description": "Driftline monochrome ops dashboard",
+  "description": "Prism Harbor monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
